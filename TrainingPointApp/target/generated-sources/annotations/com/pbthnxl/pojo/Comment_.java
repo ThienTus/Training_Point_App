@@ -9,7 +9,7 @@ import javax.persistence.metamodel.SetAttribute;
 import javax.persistence.metamodel.SingularAttribute;
 import javax.persistence.metamodel.StaticMetamodel;
 
-@Generated(value="EclipseLink-2.7.10.v20211216-rNA", date="2024-06-12T16:53:52")
+@Generated(value="EclipseLink-2.7.10.v20211216-rNA", date="2024-06-15T13:23:43")
 @StaticMetamodel(Comment.class)
 public class Comment_ { 
 
