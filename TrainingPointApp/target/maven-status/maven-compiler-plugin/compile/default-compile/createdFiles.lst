@@ -30,6 +30,7 @@ com\pbthnxl\validator\impl\EndDateAfterStartDateValidator.class
 com\pbthnxl\repositories\FacultyRepository.class
 com\pbthnxl\services\impl\ParticipationTypeServiceImpl.class
 com\pbthnxl\services\impl\OtpServiceImpl$1.class
+com\pbthnxl\dto\AssistantDTO.class
 com\pbthnxl\configs\HibernateConfigs.class
 com\pbthnxl\repositories\StudentRepository.class
 com\pbthnxl\repositories\Impl\ActivityParticipationTypeRepositoryImpl.class

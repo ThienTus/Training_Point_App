@@ -72,6 +72,7 @@ D:\232\Web\BTL\TrainingPointsManagement_SpringMVC_ReactJS\TrainingPointApp\src\m
 D:\232\Web\BTL\TrainingPointsManagement_SpringMVC_ReactJS\TrainingPointApp\src\main\java\com\pbthnxl\services\ParticipantService.java
 D:\232\Web\BTL\TrainingPointsManagement_SpringMVC_ReactJS\TrainingPointApp\src\main\java\com\pbthnxl\configs\CloudinaryConfig.java
 D:\232\Web\BTL\TrainingPointsManagement_SpringMVC_ReactJS\TrainingPointApp\src\main\java\com\pbthnxl\pojo\ActivityParticipationType.java
+D:\232\Web\BTL\TrainingPointsManagement_SpringMVC_ReactJS\TrainingPointApp\src\main\java\com\pbthnxl\dto\AssistantDTO.java
 D:\232\Web\BTL\TrainingPointsManagement_SpringMVC_ReactJS\TrainingPointApp\src\main\java\com\pbthnxl\controllers\ApiCommonController.java
 D:\232\Web\BTL\TrainingPointsManagement_SpringMVC_ReactJS\TrainingPointApp\src\main\java\com\pbthnxl\validator\UniqueStudentCode.java
 D:\232\Web\BTL\TrainingPointsManagement_SpringMVC_ReactJS\TrainingPointApp\src\main\java\com\pbthnxl\validator\impl\UniqueStudentCodeValidator.java
