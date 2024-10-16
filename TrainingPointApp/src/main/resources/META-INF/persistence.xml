@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="com.pbthnxl_TrainingPointApp_war_1.0-SNAPSHOTPU" transaction-type="RESOURCE_LOCAL">
+    <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+    <class>com.dtt.pojo.Comment</class>
+    <class>com.dtt.pojo.User</class>
+    <class>com.dtt.pojo.Interaction</class>
+    <class>com.dtt.pojo.ReportMissing</class>
+    <class>com.dtt.pojo.Faculty</class>
+    <class>com.dtt.pojo.ActivityParticipationType</class>
+    <class>com.dtt.pojo.Participant</class>
+    <class>com.dtt.pojo.Semester</class>
+    <class>com.dtt.pojo.ParticipationType</class>
+    <class>com.dtt.pojo.Registration</class>
+    <class>com.dtt.pojo.Activity</class>
+    <class>com.dtt.pojo.Article</class>
+    <class>com.dtt.pojo.Otp</class>
+    <class>com.dtt.pojo.Student</class>
+    <class>com.dtt.pojo.Class</class>
+    <exclude-unlisted-classes>false</exclude-unlisted-classes>
+    <properties>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/trainingpointdb?zeroDateTimeBehavior=CONVERT_TO_NULL"/>
+      <property name="javax.persistence.jdbc.user" value="root"/>
+      <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+      <property name="javax.persistence.jdbc.password" value="Admin@123"/>
+    </properties>
+  </persistence-unit>
+</persistence>
