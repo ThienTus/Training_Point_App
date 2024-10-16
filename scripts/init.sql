@@ -450,7 +450,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES (1,'admin','admin','admin@gmail.com','123456781','admin','$2a$10$NP4SBOhuApcKpDvaszgI9.XFxcpKDlI5EawhxeDVZwUYyKl56XfpW',_binary '','','ROLE_ADMIN');
+INSERT INTO `user` VALUES (1,'admin','admin','admin@gmail.com','123456781','admin','$2a$10$5X9k5N1sTc1/CjVH5XJoje3QMYijH3ETpgkox00R0MdPaJPPrf7wO',_binary '','','ROLE_ADMIN');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
