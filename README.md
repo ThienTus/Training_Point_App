@@ -1,4 +1,4 @@
-<h1>Student Conduct Points Management System</h1>
+<h1>Training Point App</h1>
 <p align="center">
     <a href="https://react.dev/">
         <img src="https://img.shields.io/badge/ReactJS-61DAFB.svg?logo=react&labelColor=white"/>
